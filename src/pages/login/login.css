@@ -1,0 +1,8 @@
+.login_page{background: url('https://images.pexels.com/photos/194096/pexels-photo-194096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') repeat;width: 100%;height: 100vh;position: relative;}
+.container{width: 100%;max-width: 1320px;margin: auto;}
+.login_content{background-color: #fff;padding: 0px;width: 100%;max-width: 850px;border-radius: 8px;display: flex;justify-content: space-between;align-items: center;margin: auto;position: absolute;top: 0;bottom: 0;height: 320px;left: 0;right: 0;gap: 20px;box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+.left_login_content{width: 100%;max-width: 420px; height: 320px;border-top-left-radius: 8px;border-bottom-left-radius: 8px;}
+.right_login_content{width: 100%;max-width: 420px;display: flex;justify-content: center;align-items: flex-start;gap: 20px;flex-direction: column;}
+.right_login_content input{width: 100%;max-width: 350px;padding: 10px 15px;border-radius: 2px;border: 0;background-color: #f9f9f9;color: #757575; margin-top: 5px;}
+input[type="submit"].loginSbutmit{background-color: #8C4ECF;color: #fff;padding: 8px 12px; font-size: 18px;margin: 5px 0;border-radius: 15px;width: 100%;max-width: 200px;cursor: pointer;}
+
